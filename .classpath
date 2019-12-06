@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Blog_System/src"/>
+	<classpathentry kind="lib" path="__MACOSX/Blog_System/WebContent/WEB-INF/lib/._mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="Blog_System/WebContent/WEB-INF/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Blog_System/WebContent/WEB-INF/lib/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Blog_System/WebContent/WEB-INF/lib/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="output" path="Blog_System/build/classes"/>
+</classpath>
