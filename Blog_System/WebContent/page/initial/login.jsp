@@ -8,7 +8,7 @@
 		<link type="text/css" rel="stylesheet" href="../../css/login.css">
 		<script type="text/javascript">
    	 		function regist() {
-      		window.location.href = 'regist.jsp';
+      		window.location.href='regist.jsp';
     	}
 		</script>
 </head>

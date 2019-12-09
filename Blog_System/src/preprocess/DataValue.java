@@ -1,4 +1,4 @@
-package login;
+package preprocess;
 /* 数据库的基本信息 */
 public class DataValue {
 		public String GetDataBaseValue_Url() {
